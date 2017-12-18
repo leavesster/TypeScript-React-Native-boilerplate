@@ -2,6 +2,26 @@
 # yarn lockfile v1
 
 
+"@types/jest@^21.1.8":
+  version "21.1.8"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-21.1.8.tgz#d497213725684f1e5a37900b17a47c9c018f1a97"
+
+"@types/react-native@^0.51.3":
+  version "0.51.3"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.51.3.tgz#73aae1b9b2618ead387ede3a80a17980b0e0d1f0"
+  dependencies:
+    "@types/react" "*"
+
+"@types/react-test-renderer@^16.0.0":
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react-test-renderer/-/react-test-renderer-16.0.0.tgz#905a12076d7315eb4a36c4f0e5e760c7b3115420"
+  dependencies:
+    "@types/react" "*"
+
+"@types/react@*", "@types/react@^16.0.31":
+  version "16.0.31"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.0.31.tgz#5285da62f3ac62b797f6d0729a1d6181f3180c3e"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -3369,6 +3389,10 @@ type-is@~1.6.6:
 typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
+
+typescript@^2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.6.2.tgz#3c5b6fd7f6de0914269027f03c0946758f7673a4"
 
 ua-parser-js@^0.7.9:
   version "0.7.17"
