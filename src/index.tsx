@@ -11,7 +11,7 @@ export default class MyAwesomeProject extends React.Component<object, object> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome ! hot reload
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
